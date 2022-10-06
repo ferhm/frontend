@@ -1,0 +1,192 @@
+{
+    "TOASTS": {},
+    "ALERTS": {
+        "ACCEPT": "Accept",
+        "CANCEL": "Cancel"
+    },
+    "GAMES": {
+        "RLT": "Roulette",
+        "DICE": "Roll the dices",
+        "TTT": "Tic Tac Toe",
+        "MMY": "Memory Game",
+        "SCTCH": "Scratch Scratch",
+        "QUEST": "Questionnaire",
+        "SNAKE": "Snake",
+        "CCK": "T-Clickers"
+    },
+    "PAGES": {
+        "LEGAL_ADVISE": {
+            "TITLE": "Privacy Policy",
+            "ACCEPT": "I agree to ",
+            "1": "Responsible: T-Systems ITC Iberia S.A.U.",
+            "2": "Purpose: To facilitate communication between the employee and the company.",
+            "3": "Legitimation: Contractual relationship with the employee.",
+            "4": "Recipients: Cessions or transfers to third countries are not foreseen.",
+            "5": "Rights of interested parties: You can exercise your rights of access, rectification, deletion, limitation, opposition and portability of data by requesting in writing to: T-Systems ITC Iberia SAU, Calle Sancho de Avila, 110. 08018 Barcelona, ​​or via email to proteccion.datos.personales@t-systems.com",
+            "6": "Additional information: Additional information about the processing of your personal data is available in the internal procedure '260_ComunicadoPDP_Empleados_SP-ES-EN_PSA_IB' available from the intranet (https://portal.t-systems.es/aquality/index.html) and in the 'Consent Management' application of the Applications Portal"
+        },
+        "LOGIN": {
+            "LOGIN_AS": "Login as",
+            "EMAIL": "Corporate email",
+            "REGISTER": "Register",
+            "LOGGED_AS": "Logged in as",
+            "INTRODUCE_PIN": "Check and accept the email you have received in your T-Systems account. Next, enter a new pin that will be used as authentication",
+            "PIN": "Access PIN",
+            "LOGIN": "Access",
+            "NOT_YOU": "¿Not you?",
+            "TRANSLATIONS": {
+                "SPANISH": "Spanish",
+                "ENGLISH": "English",
+                "CATALAN": "Catalan",
+                "RUSSIAN": "Russian",
+                "CHANGE": "Change language",
+                "SELECT": "Select one of the following available languages."
+            },
+            "GO_REGISTER": "Log out",
+            "GO_REGISTER_DESCR": "If you log out you will have to start the registration process again."
+        },
+        "TABS": {
+            "PRIZES": "Prizes",
+            "GAMES": "Games",
+            "CHALLENGES": "Challenges",
+            "COMMENTS": "Comments",
+            "PROFILE": "Profile"
+        },
+        "PRIZES": {
+            "NO_DATA": "Contact your manager to unlock new prizes!",
+            "DETAIL": {
+                "SELECT": "Receive",
+                "SET_OFFICE": "Select shipping address",
+                "NO_STOCK": "Sold out",
+                "NO_MAGENTOS": "Insufficient Magentos",
+                "RECEIVE": "Receive the prize",
+                "RECEIVE_ASK": "Do you want to receive the prize? Will be subtracted ",
+                "BALANCE": "and will be left with a balance of ",
+                "MODAL": {
+                    "UNITS": "Units",
+                    "ORDER": "Order details"
+                }
+            },
+            "MODAL": {
+                "GUARDAR": "Save"
+            }
+        },
+        "CHALLENGES": {
+            "NO_DATA": "Contact your manager to ask for new challenges!",
+            "NOT_STARTED": "Start",
+            "STARTED": "Validate",
+            "PENDING_ACCEPT": "Waiting",
+            "ACCEPTED": "Recieve reward",
+            "FINISHED": "Finished",
+            "REJECTED": "Rejected",
+            "DETAIL": {
+                "QR_INITIAL": "Scan the QR code to complete this challenge.",
+                "QR_OK": "QR code successfully scanned.",
+                "CAMERA_PERMISSION": "No camera permissions",
+                "CAMERA_PERMISSION_TEXT": "Currently the camera cannot be accessed, please enable permissions in settings.",
+                "END_CHALLENGE_TITLE": "Complete challenge",
+                "END_CHALLENGE_TEXT": "Are you sure you want to end the challenge? Your manager will receive an email to validate the process."
+            }
+        },
+        "GAME": {
+            "MESSAGES": {
+                "COUNTDOWN": "Next opportunity in",
+                "NEXT_OPPORTUNITY": "Next opportunity",
+                "TOMORROW": "Tomorrow",
+                "WORKING_FROM": "Working from",
+                "HOME": "Home",
+                "OFFICE": "Office",
+                "YOU_WIN": "You have won ",
+                "CONGRATS": "Congratulations! You have a total of ",
+                "STACK": "accumulated."
+            },
+            "PLAY": "Play",
+            "RESULT": {
+                "WIN": "It is a win!",
+                "LOSE": "You have lost",
+                "DRAW": "It is a draw"
+            },
+            "CALL_ACTION": {
+                "COOKIE": "If you are in the office, press START and click on the figure as fast as you can to earn points",
+                "MEMORY": "If you are in the office, you can search pairs by clicking on the boxes.",
+                "ROULETTE": "If you are in the office, you can start playing by clicking on the center of the roulette wheel",
+                "TICTACTOE": "If you are in the office, you can make your first roll by clicking on a square."
+            },
+            "BLUETOOTH": "Connectivity error",
+            "BLUETOOTH_DESCRIPTION": "Bluetooth or location is not active. Please activate them in order to scan beacons."
+        },
+        "PROFILE": {
+            "ORDERS": {
+                "TITLE1": "My orders",
+                "TITLE": "List of orders",
+                "NO_DATA": "You have not placed any order",
+                "DETAIL": {
+                    "DATE": "Order date:",
+                    "DATE_UPDATE": "Last update:",
+                    "REQUESTED": "Requested",
+                    "OBTAINED": "Received",
+                    "REJECTED": "Rejected"
+                }
+            },
+            "ACTIVITY": {
+                "TITLE1": "Activity history",
+                "TITLE": "Activity",
+                "NO_DATA": "Come to the office to start playing!"
+            },
+            "CONFIGURATION": {
+                "TITLE1": "Settings",
+                "REMINDERS_TITLE": "Reminder management",
+                "REMINDERS_DESCRIPTION": "Frequency and time of game reminders.",
+                "REMINDERS_SAVE": "Reminders saved.",
+                "DAYS": "Days",
+                "HOURS": "Hours",
+                "LANGUAGE": "Language",
+                "LANGUAGE_DESCRIPTION": "Select the language to use.",
+                "COMMENTS_TITLE": "Comments and proposals",
+                "COMMENTS_DESCRIPTION": "In this section you can leave your comments and proposals about the APP GCLoud Granada.",
+                "COMMENT_SEND": "Comment sent.",
+                "UPDATE_TITLE": "Update available!",
+                "UPDATE_DESCRIPTION": "You must update to enjoy the latest features."
+            },
+            "ABOUT": {
+                "TITLE1": "About the APP"
+            },
+            "HELLO": "Hello ",
+            "HOW_R_U": "How are you doing today?",
+            "LOGOUT": "Log out of this device",
+            "LOGOUT_TITLE": "Logout Game",
+            "LOGOUT_DESCRIPTION": "Are you sure you want to log out of the game? You will need to log in again the next time you connect."
+        },
+        "COMMENTS": {
+            "TEXT": "Leave here your comments, proposals and errors that you have found in this beta version.",
+            "THANKS": "We appreciate your participation :)",
+            "SEND": "Send"
+        }
+    },
+    "ERRORS": {
+        "GENERIC": "Error in the request",
+        "0": "Failed to connect to the server",
+        "310": "Redirection in progress...",
+        "400": {
+            "POLICY_ACCEPT": "Privacy policy not accepted",
+            "INVALID_EMAIL": "Incorrect email"
+        },
+        "401": "Authentication error",
+        "403": "User blocked. Contact administrator",
+        "426": "New version available! Please update the app",
+        "500": "Server operation error",
+        "505": "Update available",
+        "525": ""
+    },
+    "GENERIC": {
+        "DAYS_WEEK": {
+            "1": "Monday",
+            "2": "Tuesday",
+            "3": "Wednesday",
+            "4": "Thursday",
+            "5": "Friday",
+            "6": "Saturday",
+            "7": "Sunday"
+        }
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "TOASTS": {},
+    "ALERTS": {
+        "ACCEPT": "Aceptar",
+        "CANCEL": "Cancelar"
+    },
+    "GAMES": {
+        "RLT": "Ruleta",
+        "DICE": "Lanza los dados",
+        "TTT": "Tres en raya",
+        "MMY": "Memory",
+        "SCTCH": "Rasca rasca",
+        "QUEST": "Cuestionarios",
+        "SNAKE": "Snake",
+        "CCK": "T-Clickers"
+    },
+    "PAGES": {
+        "LEGAL_ADVISE": {
+            "TITLE": "Política de privacidad",
+            "ACCEPT": "Acepto la ",
+            "1": "Responsable: T-Systems ITC Iberia S.A.U.",
+            "2": "Finalidad: Facilitar la comunicación entre el empleado y la compañía.",
+            "3": "Legitimación: Relación contractual con el empleado.",
+            "4": "Destinatarios: No está previsto cesiones ni transferencias a terceros países.",
+            "5": "Derechos de los interesados: Puede ejercitar sus derechos de acceso, rectificación, supresión, limitación, oposición y portabilidad de datos solicitándolo por escrito a: T-Systems ITC Iberia SAU, Calle Sancho de Ávila, 110. 08018 Barcelona, o a través de correo electrónico a proteccion.datos.personales@t-systems.com",
+            "6": "Información adicional: Dispone de Información adicional sobre el tratamiento de sus datos personales en el el procedimiento interno “260_ComunicadoPDP_Empleados_SP-ES-EN_PSA_IB” disponible desde la intranet (https://portal.t-systems.es/aquality/index.html) y en la aplicación “Gestión de Consentimiento” del Portal de Aplicaciones"
+        },
+        "LOGIN": {
+            "LOGIN_AS": "Inicar sesión como",
+            "EMAIL": "Correo corporativo",
+            "REGISTER": "Registrar",
+            "LOGGED_AS": "Sesión iniciada como",
+            "INTRODUCE_PIN": "Compruebe y acepte el email que ha recibido en su cuenta de T-Systems. A continuación, introduzca un nuevo pin que servirá de autenticación",
+            "PIN": "PIN de acceso",
+            "LOGIN": "Acceder",
+            "NOT_YOU": "¿No eres tú?",
+            "TRANSLATIONS": {
+                "SPANISH": "Español",
+                "ENGLISH": "Inglés",
+                "CATALAN": "Catalán",
+                "RUSSIAN": "Ruso",
+                "CHANGE": "Cambiar de idioma",
+                "SELECT": "Seleccione uno de los siguientes idiomas disponibles."
+            },
+            "GO_REGISTER": "Cerrar sesión",
+            "GO_REGISTER_DESCR": "Si cierra la sesión tendrá que volver a iniciar el proceso de registro."
+        },
+        "TABS": {
+            "PRIZES": "Premios",
+            "GAMES": "Juegos",
+            "CHALLENGES": "Retos",
+            "COMMENTS": "Comentarios",
+            "PROFILE": "Perfil"
+        },
+        "PRIZES": {
+            "NO_DATA": "¡Contacta con tu manager para desbloquear nuevos premios!",
+            "DETAIL": {
+                "SELECT": "Recibir",
+                "SET_OFFICE": "Selecciona la dirección de envío",
+                "NO_STOCK": "Producto agotado",
+                "NO_MAGENTOS": "Magentos insuficientes",
+                "RECEIVE": "Recibir el premio",
+                "RECEIVE_ASK": "¿Desea recibir el premio? Se restaran ",
+                "BALANCE": "y quedará con un balance de",
+                "MODAL": {
+                    "UNITS": "Unidades",
+                    "ORDER": "Detalles del pedido"
+                }
+            },
+            "MODAL": {
+                "GUARDAR": "Guardar"
+            }
+        },
+        "CHALLENGES": {
+            "NO_DATA": "¡Contacta con tu manager para pedirle nuevos retos!",
+            "NOT_STARTED": "Empezar",
+            "STARTED": "Validar",
+            "PENDING_ACCEPT": "En espera",
+            "ACCEPTED": "Recibir recompensa",
+            "FINISHED": "Finalizado",
+            "REJECTED": "Rechazado",
+            "DETAIL": {
+                "QR_INITIAL": "Escanea el código QR para finalizar este reto.",
+                "QR_OK": "Código QR escaneado con éxito.",
+                "CAMERA_PERMISSION": "Sin permisos de cámera",
+                "CAMERA_PERMISSION_TEXT": "Actualmente no se puede acceder a la cámara, active los permisos en la configuración.",
+                "END_CHALLENGE_TITLE": "Finalizar reto.",
+                "END_CHALLENGE_TEXT": "Está seguro que desea dar por finalizado el reto? Tu responsable recibirá un correo para validar el proceso."
+            }
+        },
+        "GAME": {
+            "MESSAGES": {
+                "COUNTDOWN": "Siguiente oportunidad en",
+                "NEXT_OPPORTUNITY": "Siguiente oportunidad",
+                "TOMORROW": "Mañana",
+                "WORKING_FROM": "Trabajando desde",
+                "HOME": "Casa",
+                "OFFICE": "Oficina",
+                "YOU_WIN": "Has ganado ",
+                "CONGRATS": "¡Felicidades! Llevas un total de ",
+                "STACK": "acumulados."
+            },
+            "PLAY": "Jugar",
+            "RESULT": {
+                "WIN": "¡Has ganado!",
+                "LOSE": "Has perdido",
+                "DRAW": "Has empatado"
+            },
+            "CALL_ACTION": {
+                "COOKIE": "Si te encuentras en la oficina, dale a START y pulsa encima de la figura lo más rápido que puedas para ganar puntos",
+                "MEMORY": "Si te encuentras en la oficina, puedes buscar parejas pulsando en las casillas.",
+                "ROULETTE": "Si te encuentras en la oficina, puedes empezar a jugar presionando en el centro de la ruleta",
+                "TICTACTOE": "Si te encuentras en la oficina, puedes realizar tu primera tirada pulsando en una casilla."
+            },
+            "BLUETOOTH": "Error de conectividad",
+            "BLUETOOTH_DESCRIPTION": "El bluetooth o la ubicación no están activos. Por favor actívelos para poder escanear los beacons."
+        },
+        "PROFILE": {
+            "ORDERS": {
+                "TITLE1": "Mis pedidos",
+                "TITLE": "Listado de órdenes",
+                "NO_DATA": "No has realizado ningún pedido",
+                "DETAIL": {
+                    "DATE": "Fecha de pedido:",
+                    "DATE_UPDATE": "Última actualización:",
+                    "REQUESTED": "Solicitado",
+                    "OBTAINED": "Recibido",
+                    "REJECTED": "Rechazado"
+                }
+            },
+            "ACTIVITY": {
+                "TITLE1": "Actividad en el juego",
+                "TITLE": "Actividad",
+                "NO_DATA": "¡Pásate por la oficina para empezar a jugar!"
+            },
+            "CONFIGURATION": {
+                "TITLE1": "Configuración",
+                "REMINDERS_TITLE": "Gestión de recordatorios",
+                "REMINDERS_DESCRIPTION": "Configuración de la periodicidad y hora de los recordatorios de juego.",
+                "REMINDERS_SAVE": "Recordatorios guardados.",
+                "DAYS": "Días",
+                "HOURS": "Horas",
+                "LANGUAGE": "Idioma",
+                "LANGUAGE_DESCRIPTION": "Seleccione el idioma a utilizar.",
+                "COMMENTS_TITLE": "Comentarios y propuestas",
+                "COMMENTS_DESCRIPTION": "En este apartado puedes dejar tus comentarios y propuestas sobre la aplicación GCLoud Granada.",
+                "COMMENT_SEND": "Comentario enviado",
+                "UPDATE_TITLE": "¡Actualización disponible!",
+                "UPDATE_DESCRIPTION": "Debe actualizar para disfrutar de las últimas funcionalidades."
+            },
+            "ABOUT": {
+                "TITLE1": "Sobre la APP"
+            },
+            "HELLO": "Hola ",
+            "HOW_R_U": "¿Cómo estás hoy?",
+            "LOGOUT": "Cerrar sesión de este dispositivo",
+            "LOGOUT_TITLE": "Salir del juego",
+            "LOGOUT_DESCRIPTION": "Está seguro que desea salir del juego? Deberá volver a iniciar sesión la próxima vez que se conecte."
+        },
+        "COMMENTS": {
+            "TEXT": "Deja aquí tus comentarios, propuestas y errores que hayas encontrado en esta versión beta.",
+            "THANKS": "Agradecemos tu participación :)",
+            "SEND": "Enviar"
+        }
+    },
+    "ERRORS": {
+        "GENERIC": "Error en la petición",
+        "0": "No se ha podido conectar con el servidor",
+        "310": "Redirección en proceso...",
+        "400": {
+            "POLICY_ACCEPT": "Política de privacidad no aceptada",
+            "INVALID_EMAIL": "Email inválido"
+        },
+        "401": "Error de autenticación",
+        "403": "Usuario bloqueado. Contacte con administrador",
+        "426": "¡Nueva versión disponible! Por favor actualice la aplicación.",
+        "500": "Error en la operación del servidor",
+        "505": "Actualización disponible",
+        "525": ""
+    },
+    "GENERIC": {
+        "DAYS_WEEK": {
+            "1": "Lunes",
+            "2": "Martes",
+            "3": "Miércoles",
+            "4": "Juenes",
+            "5": "Viernes",
+            "6": "Sábado",
+            "7": "Domingo"
+        }
+    }
+}

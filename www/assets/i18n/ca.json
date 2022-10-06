@@ -1,0 +1,192 @@
+{
+    "TOASTS": {},
+    "ALERTS": {
+        "ACCEPT": "Acceptar",
+        "CANCEL": "Cancel.lar"
+    },
+    "GAMES": {
+        "RLT": "Ruleta",
+        "DICE": "Llençar els daus",
+        "TTT": "Tres en ratlla",
+        "MMY": "Memory",
+        "SCTCH": "Rasca rasca",
+        "QUEST": "Qüestionaris",
+        "SNAKE": "Snake",
+        "CCK": "T-Clickers"
+    },
+    "PAGES": {
+        "LEGAL_ADVISE": {
+            "TITLE": "Política de privacitat",
+            "ACCEPT": "Accepto la ",
+            "1": "Responsable: T-Systems ITC Iberia S.A.U.",
+            "2": "Finalitat: facilitar la comunicació entre l'empleat i la companyia.",
+            "3": "Legitimació: relació contractual amb l'empleat.",
+            "4": "Destinataris: No està previst cessions ni transferències a països tercers.",
+            "5": "Drets dels interessats: Podeu exercitar els vostres drets d'accés, rectificació, supressió, limitació, oposició i portabilitat de dades sol·licitant-ho per escrit a: T-Systems a proteccion.datos.personales@t-systems.com",
+            "6": "Informació addicional: Disposa d'Informació addicional sobre el tractament de les vostres dades personals en el procediment intern “260_ComunicadoPDP_Empleados_SP-ES-EN_PSA_IB” disponible des de la intranet (https://portal.t-systems.es/aquality/index.html) i en la aplicació “Gestión de Consentimiento” del Portal de Aplicaciones"
+        },
+        "LOGIN": {
+            "LOGIN_AS": "Iniciar sessió com",
+            "EMAIL": "Correu corporatiu",
+            "REGISTER": "Registrar",
+            "LOGGED_AS": "Sessió iniciada com",
+            "INTRODUCE_PIN": "Comproveu i accepteu el correu electrònic que heu rebut al vostre compte de T-Systems. A continuació, introduïu un nou pin que servirà d'autenticació",
+            "PIN": "PIN d'accés",
+            "LOGIN": "Accedir",
+            "NOT_YOU": "No ets tu?",
+            "TRANSLATIONS": {
+                "SPANISH": "Espanyol",
+                "ENGLISH": "Anglès",
+                "CATALAN": "Català",
+                "RUSSIAN": "Rus",
+                "CHANGE": "Canviar d'idioma",
+                "SELECT": "Seleccioneu un dels següents idiomes disponibles."
+            },
+            "GO_REGISTER": "Tancar sessió",
+            "GO_REGISTER_DESCR": "Si tanca la sessió, haurà de tornar a iniciar el procés de registre."
+        },
+        "TABS": {
+            "PRIZES": "Premis",
+            "GAMES": "Jocs",
+            "CHALLENGES": "Reptes",
+            "COMMENTS": "Comentaris",
+            "PROFILE": "Perfil"
+        },
+        "PRIZES": {
+            "NO_DATA": "Contacta amb el teu manager per desbloquejar nous premis!",
+            "DETAIL": {
+                "SELECT": "Rebre",
+                "SET_OFFICE": "Seleccioneu l'adreça d'enviament",
+                "NO_STOCK": "Producte esgotat",
+                "NO_MAGENTOS": "Magentos insuficients",
+                "RECEIVE": "Rebre el premi",
+                "RECEIVE_ASK": "Voleu rebre el premi? Es restaran ",
+                "BALANCE": "i quedarà amb un balanç de",
+                "MODAL": {
+                    "UNITS": "Unitats",
+                    "ORDER": "Detalls de la comanda"
+                }
+            },
+            "MODAL": {
+                "GUARDAR": "Desar"
+            }
+        },
+        "CHALLENGES": {
+            "NO_DATA": "Contacta amb el teu manager per demanar nous reptes!",
+            "NOT_STARTED": "Començar",
+            "STARTED": "Validar",
+            "PENDING_ACCEPT": "Pendent de validació",
+            "ACCEPTED": "Rebre recompensa",
+            "FINISHED": "Finalitzat",
+            "REJECTED": "Rebutjat",
+            "DETAIL": {
+                "QR_INITIAL": "Escaneja el codi QR per finalitzar aquest repte.",
+                "QR_OK": "Codi QR escanejat amb èxit.",
+                "CAMERA_PERMISSION": "Sense permisos de càmera",
+                "CAMERA_PERMISSION_TEXT": "Actualment no es pot accedir a la càmera, activeu els permisos a la configuració.",
+                "END_CHALLENGE_TITLE": "Finalitzar repte.",
+                "END_CHALLENGE_TEXT": "Esteu segur que voleu donar per finalitzat el repte? El teu responsable rebrà un correu per validar el procés."
+            }
+        },
+        "GAME": {
+            "MESSAGES": {
+                "COUNTDOWN": "Següent oportunitat a",
+                "NEXT_OPPORTUNITY": "Següent oportunitat",
+                "TOMORROW": "demà",
+                "WORKING_FROM": "Treballant des de",
+                "HOME": "Casa",
+                "OFFICE": "Oficina",
+                "YOU_WIN": "Has guanyat ",
+                "CONGRATS": "Felicitats! Portes un total de ",
+                "STACK": "acumulats."
+            },
+            "PLAY": "Jugar",
+            "RESULT": {
+                "WIN": "Has guanyat!",
+                "LOSE": "Has perdut",
+                "DRAW": "Has empatat"
+            },
+            "CALL_ACTION": {
+                "COOKIE": "Si et trobes a l'oficina, dóna-li a START i prem damunt la figura el més ràpid que puguis per guanyar punts",
+                "MEMORY": "Si et trobes a l'oficina, pots buscar parelles fent clic a les caselles.",
+                "ROULETTE": "Si te encuentras en la oficina, puedes empezar a jugar presionando en el centro de la ruleta",
+                "TICTACTOE": "Si et trobes a l'oficina, pots fer la primera tirada prement en una casella."
+            },
+            "BLUETOOTH": "Error de connectivitat",
+            "BLUETOOTH_DESCRIPTION": "El bluetooth o la ubicació no estan actius. Si us plau activa'ls per poder escanejar els beacons."
+        },
+        "PROFILE": {
+            "ORDERS": {
+                "TITLE1": "Les meves comandes",
+                "TITLE": "Llistat d'ordres",
+                "NO_DATA": "No has fet cap comanda",
+                "DETAIL": {
+                    "DATE": "Data de comanda:",
+                    "DATE_UPDATE": "Última actualització:",
+                    "REQUESTED": "Sol·licitat",
+                    "OBTAINED": "Rebut",
+                    "REJECTED": "Rebutjat"
+                }
+            },
+            "ACTIVITY": {
+                "TITLE1": "Activitat en el joc",
+                "TITLE": "Actividat",
+                "NO_DATA": "Passa't per l'oficina per començar a jugar!"
+            },
+            "CONFIGURATION": {
+                "TITLE1": "Configuració",
+                "REMINDERS_TITLE": "Gestió de recordatoris",
+                "REMINDERS_DESCRIPTION": "Configuració de la periodicitat i hora dels recordatoris de joc.",
+                "REMINDERS_SAVE": "Recordatoris guardats.",
+                "DAYS": "Dies",
+                "HOURS": "Hores",
+                "LANGUAGE": "Idioma",
+                "LANGUAGE_DESCRIPTION": "Seleccioneu l'idioma que voleu utilitzar.",
+                "COMMENTS_TITLE": "Comentaris i propostes",
+                "COMMENTS_DESCRIPTION": "En aquest apartat podeu deixar els vostres comentaris i propostes sobre l'aplicació GCLoud Granada.",
+                "COMMENT_SEND": "Comentari enviat",
+                "UPDATE_TITLE": "Actualizació disponible!",
+                "UPDATE_DESCRIPTION": "Heu d'actualitzar per gaudir de les últimes funcionalitats."
+            },
+            "ABOUT": {
+                "TITLE1": "Sobre la APP"
+            },
+            "HELLO": "Hola ",
+            "HOW_R_U": "Com estàs avui?",
+            "LOGOUT": "Tanca la sessió d'aquest dispositiu",
+            "LOGOUT_TITLE": "Sortir del joc",
+            "LOGOUT_DESCRIPTION": "Esteu segur que voleu sortir del joc? Haureu de tornar a iniciar sessió la propera vegada que us connecteu."
+        },
+        "COMMENTS": {
+            "TEXT": "Deixa aquí els teus comentaris, propostes i errors que hagis trobat en aquesta versió beta.",
+            "THANKS": "Agraïm la teva participació :)",
+            "SEND": "Enviar"
+        }
+    },
+    "ERRORS": {
+        "GENERIC": "Error a la petició",
+        "0": "No s'ha pogut connectar amb el servidor",
+        "310": "Redirecció en procés...",
+        "400": {
+            "POLICY_ACCEPT": "Política de privacitat no acceptada",
+            "INVALID_EMAIL": "Email incorrecte"
+        },
+        "401": "Error d'autenticació",
+        "403": "Usuari bloquejat. Contacti amb administrador",
+        "426": "Nova versió disponible! Si us plau, actualitzeu l'aplicació.",
+        "500": "Error a l'operació del servidor",
+        "505": "Actualització disponible",
+        "525": ""
+    },
+    "GENERIC": {
+        "DAYS_WEEK": {
+            "1": "Dilluns",
+            "2": "Dimarts",
+            "3": "Dimecres",
+            "4": "Dijous",
+            "5": "Divendres",
+            "6": "Dissabte",
+            "7": "Diumenge"
+        }
+    }
+}
